@@ -20,3 +20,11 @@ cd existing_git_repo
 git remote add origin https://gitee.com/acadeee/javascript.git
 git push -u origin master
 ```
+
+假设新建的仓库在E:/learngit
+
+$cd e:
+
+$cd learngit
+
+就到仓库的目录了
